@@ -77,7 +77,7 @@
 
 ### 🏆 Open Source Contributions  
 
-- Contributed to **15+ open-source repositories**
+- Contributed to **9+ open-source repositories**
 - Improved UI, fixed bugs, and enhanced documentation  
 - Collaborated with maintainers on feature requests & PR reviews  
 
