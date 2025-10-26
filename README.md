@@ -12,7 +12,7 @@
 ### 🧠 About Me  
 
 - 🌱 Currently learning **TypeScript**, **Next.js**, and **Backend Architecture**  
-- 💻 Built **5+ full-stack projects** and contributed to **9+ open-source repositories**  
+- 💻 Built **5+ full-stack projects** and made **100+ contributions** 
 - ⚙️ Passionate about **real-time web apps** & **WebSockets**  
 - 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**  
 - 🎯 Goal: Build scalable, impactful products and grow as a developer  
@@ -77,7 +77,7 @@
 
 ### 🏆 Open Source Contributions  
 
-- Contributed to **9+ open-source repositories**
+- Contributed to **10+ open-source repositories**
 - Improved UI, fixed bugs, and enhanced documentation  
 - Collaborated with maintainers on feature requests & PR reviews  
 
