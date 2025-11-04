@@ -52,6 +52,9 @@
 </p>
 
 ---
+### 🎖 Holopin Badges
+[![An image of @adarshops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adarshops)](https://holopin.io/@adarshops)
+---
 
 ### 💼 Featured Projects  
 
