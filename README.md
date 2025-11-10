@@ -4,7 +4,7 @@
 <p align="center">
   🚀 <b>Full-Stack Developer | Open Source Contributor</b><br>
   I build real-time, scalable, and modern web apps with <b>Next.js</b>, <b>React</b>, and <b>Node.js</b>.  
-  Passionate about open-source, backend systems, and clean UI design.
+  Passionate about open-source, backend systems, and clean UI design.<br>
   Portfolio: https://personal-portfolio-website-nine-pi.vercel.app
 </p>
 
